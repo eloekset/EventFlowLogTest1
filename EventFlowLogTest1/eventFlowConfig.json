@@ -12,6 +12,11 @@
   ],
   "outputs": [
     {
+      "type": "ApplicationInsights",
+      // (replace the following value with your AI resource's instrumentation key)
+      "instrumentationKey": "6b49a0f8-d530-4062-b899-0401dcb25fc4"
+    },
+    {
       "type": "StdOutput"
     }
   ],
